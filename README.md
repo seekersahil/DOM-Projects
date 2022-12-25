@@ -7,7 +7,7 @@
 
 |  #  |            Project          | Live Demo    |
 | :-: | :-------------------------: | :-------:    |
-| 01  |       [Listify:To Do List]()  | [Live Demo]()  |
+| 01  |       [Listify:To Do List](https://github.com/seekersahil/DOM-Projects/tree/main/Listify)  | [Live Demo](https://dev.seekersahil.com/projects/DOM/Listify/)  |
 
 #Upcoming Projects
 |  #  |            Project          |
