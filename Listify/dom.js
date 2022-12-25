@@ -14,7 +14,7 @@ function addItem(e){
 
     //get Input Value
     let input = document.getElementById("newItem").value;
-
+    document.getElementById("newItem").value = "";
     //creat new li
     let newLi = document.createElement('li');
     newLi.className = "list-group-item";
