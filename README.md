@@ -9,7 +9,7 @@
 | :-: | :-------------------------: | :-------:    |
 | 01  |       [Listify:To Do List](https://github.com/seekersahil/DOM-Projects/tree/main/Listify)  | [Live Demo](https://dev.seekersahil.com/projects/DOM/Listify/)  |
 
-#Upcoming Projects
+# Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
 | 02  |       Form Validator      |
