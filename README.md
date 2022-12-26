@@ -5,15 +5,14 @@
  # 20+ Web Projects With Vanilla JavaScript
 
 
-|  #  |            Project          | Live Demo    |
+|  #  |         Project Name         |      Live Demo    |
 | :-: | :-------------------------: | :-------:    |
-| 01  |       [Listify:To Do List](https://github.com/seekersahil/DOM-Projects/tree/main/Listify)  | [Live Demo](https://dev.seekersahil.com/projects/DOM/Listify/)  |
-| 02  |       [Form Validator](https://github.com/seekersahil/DOM-Projects/tree/main/Form-Validator)        | [Live Demo](https://dev.seekersahil.com/projects/DOM/Form-Validator/)  |
-
+| 01  |       [Form Validator](https://github.com/seekersahil/DOM-Projects/tree/main/Form-Validator)        | [Live Demo](https://dev.seekersahil.com/projects/DOM/Form-Validator/)  |
+| 02  |       [Listify: To Do List](https://github.com/seekersahil/DOM-Projects/tree/main/Listify)  | [Live Demo](https://dev.seekersahil.com/projects/DOM/Listify/)  |
+| 03  |     [Movie Seat Booking App](https://github.com/seekersahil/DOM-Projects/tree/main/Movie-Seat-Booking-App)    | [Live Demo](https://dev.seekersahil.com/projects/DOM/Movie-Seat-Booking-App/)  |
 # Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 03  |     Movie Seat Booking    |
 | 04  |    Custom Video Player    |
 | 05  |  Exchange Rate Calculator |
 | 06  | DOM Array Methods Project |
