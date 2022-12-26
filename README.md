@@ -8,11 +8,11 @@
 |  #  |            Project          | Live Demo    |
 | :-: | :-------------------------: | :-------:    |
 | 01  |       [Listify:To Do List](https://github.com/seekersahil/DOM-Projects/tree/main/Listify)  | [Live Demo](https://dev.seekersahil.com/projects/DOM/Listify/)  |
+| 02  |       [Form Validator](https://github.com/seekersahil/DOM-Projects/tree/main/Form-Validator)        | [Live Demo](https://dev.seekersahil.com/projects/DOM/Form-Validator/)  |
 
 # Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 02  |       Form Validator      |
 | 03  |     Movie Seat Booking    |
 | 04  |    Custom Video Player    |
 | 05  |  Exchange Rate Calculator |
