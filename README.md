@@ -10,11 +10,11 @@
 | 01  |       [Form Validator](https://github.com/seekersahil/DOM-Projects/tree/main/Form-Validator)        | [Live Demo](https://dev.seekersahil.com/projects/DOM/Form-Validator/)  |
 | 02  |       [Listify: To Do List](https://github.com/seekersahil/DOM-Projects/tree/main/Listify)  | [Live Demo](https://dev.seekersahil.com/projects/DOM/Listify/)  |
 | 03  |     [Movie Seat Booking App](https://github.com/seekersahil/DOM-Projects/tree/main/Movie-Seat-Booking-App)    | [Live Demo](https://dev.seekersahil.com/projects/DOM/Movie-Seat-Booking-App/)  |
-| 04  |    [Custom Video Player](https://github.com/seekersahil/DOM-Projects/tree/main/Custom-Video-Player)    | [Live Demo](https://dev.seekersahil.com/projects/DOM/Custom-Video-Player/)
+| 04  |    [Custom Video Player](https://github.com/seekersahil/DOM-Projects/tree/main/Custom-Video-Player)    | [Live Demo](https://dev.seekersahil.com/projects/DOM/Custom-Video-Player/) |
+| 05  |  [Exchange Rate Calculator](https://github.com/seekersahil/DOM-Projects/tree/main/Exchange-Rate-Calculator/) | [Live Demo](https://dev.seekersahil.com/projects/DOM/Exchange-Rate-Calculator/) |
 # Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 05  |  Exchange Rate Calculator |
 | 06  | DOM Array Methods Project |
 | 07  |    Menu Slider & Modal    |
 | 08  |        Hangman Game       |
