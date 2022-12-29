@@ -12,10 +12,10 @@
 | 03  |     [Movie Seat Booking App](https://github.com/seekersahil/DOM-Projects/tree/main/Movie-Seat-Booking-App)    | [Live Demo](https://dev.seekersahil.com/projects/DOM/Movie-Seat-Booking-App/)  |
 | 04  |    [Custom Video Player](https://github.com/seekersahil/DOM-Projects/tree/main/Custom-Video-Player)    | [Live Demo](https://dev.seekersahil.com/projects/DOM/Custom-Video-Player/) |
 | 05  |  [Exchange Rate Calculator](https://github.com/seekersahil/DOM-Projects/tree/main/Exchange-Rate-Calculator/) | [Live Demo](https://dev.seekersahil.com/projects/DOM/Exchange-Rate-Calculator/) |
+| 06  | [DOM Array Methods Project](https://github.com/seekersahil/DOM-Projects/tree/main/DOM-Array-Methods/) |  [Live Demo](https://dev.seekersahil.com/projects/DOM/DOM-Array-Methods/) |
 # Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 06  | DOM Array Methods Project |
 | 07  |    Menu Slider & Modal    |
 | 08  |        Hangman Game       |
 | 09  |       Mealfinder App      |
