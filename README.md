@@ -15,10 +15,10 @@ DOM Manipulation Projects frequently used by developers built with Vanilla JavaS
 | 08  |        [Hangman Game](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Hangman-Game/)       | [Live Demo](https://dev.seekersahil.com/projects/DOM/Hangman-Game/) |
 | 09  |       [Mealfinder App](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Meal-Finder-App/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Meal-Finder-App/) |
 | 10  |      [Expense Tracker](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Expense-Tracker/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Expense-Tracker/) |
+| 11  |        [Music Player](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Music-Player/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Music-Player/) |
 ## Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 11  |        Music Player       |
 | 12  |     Infinite Scrolling    |
 | 13  |        Typing Game        |
 | 14  |     Speech Text Reader    |
