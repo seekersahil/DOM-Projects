@@ -1,4 +1,4 @@
-# Frequently used DOM Manipulation Projects with Vanilla JavaScript
+# DOM Manipulation Projects frequently used by developers built with Vanilla JavaScript
 
 
 |  #  |         Project Name         |      Live Demo    |
