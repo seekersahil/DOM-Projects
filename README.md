@@ -1,4 +1,6 @@
-# DOM Manipulation Projects frequently used by developers built with Vanilla JavaScript
+# VanillaJS Daily Use Projects
+
+DOM Manipulation Projects frequently used by developers built with Vanilla JavaScript
 
 
 |  #  |         Project Name         |      Live Demo    |
