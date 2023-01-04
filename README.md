@@ -1,4 +1,6 @@
-# DOM Manipulation Projects frequently used by developers built with Vanilla JavaScript
+# VanillaJS Daily Use Projects
+
+DOM Manipulation Projects frequently used by developers built with Vanilla JavaScript
 
 
 |  #  |         Project Name         |      Live Demo    |
@@ -28,4 +30,4 @@
 | 20  |       Sortable List       |
 | 21  | Speak Number Guessing Game|
 
-I made these projects under the guidance of Brad Traversy.
+I made these projects under the able guidance of Brad Traversy.
