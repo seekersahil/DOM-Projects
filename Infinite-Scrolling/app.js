@@ -3,7 +3,7 @@ const loader = document.getElementById("loader");
 const filter = document.getElementById("filter");
 
 let limit = 5;
-let page = 1;
+let page = 0;
 
 //Fetch posts from api
 async function getPosts() {
@@ -60,7 +60,7 @@ function filterPosts(e) {
   });
 }
 
-showPosts();
+showLoading();
 
 window.addEventListener("scroll", (e) => {
   const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
