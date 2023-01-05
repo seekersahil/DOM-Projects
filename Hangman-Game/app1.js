@@ -70,7 +70,7 @@ function playGame(selectedWord) {
 
     //check if lost
     if (wrongLetters.length === figureParts.length) {
-      finalMessage.innerHTML = `Unfortunately, You Lost.😞 The word was ${selectedWord}`;
+      finalMessage.innerHTML = `Unfortunately, You Lost.😞 The word was '${selectedWord}'`;
       popup.style.display = "flex";
     }
   }
@@ -85,7 +85,6 @@ function playGame(selectedWord) {
   }
 
   //KeyDown Letter Press
-
   window.addEventListener("keydown", (e) => {
     if (e.keyCode >= 65 && e.keyCode <= 90) {
       const letter = e.key.toLowerCase();

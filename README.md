@@ -16,10 +16,10 @@ DOM Manipulation Projects frequently used by developers built with Vanilla JavaS
 | 09  |       [Mealfinder App](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Meal-Finder-App/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Meal-Finder-App/) |
 | 10  |      [Expense Tracker](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Expense-Tracker/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Expense-Tracker/) |
 | 11  |        [Music Player](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Music-Player/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Music-Player/) |
+| 12  |     [Infinite Scrolling](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Infinite-Scrolling/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Infinite-Scrolling/) |
 ## Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 12  |     Infinite Scrolling    |
 | 13  |        Typing Game        |
 | 14  |     Speech Text Reader    |
 | 15  |        Memory Cards       |
@@ -31,3 +31,4 @@ DOM Manipulation Projects frequently used by developers built with Vanilla JavaS
 | 21  | Speak Number Guessing Game|
 
 I made these projects under the able guidance of Brad Traversy.
+
