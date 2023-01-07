@@ -18,10 +18,10 @@ DOM Manipulation Projects frequently used by developers built with Vanilla JavaS
 | 11  |        [Music Player](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Music-Player/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Music-Player/) |
 | 12  |     [Infinite Scrolling](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Infinite-Scrolling/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Infinite-Scrolling/) |
 | 13  |        [Typing Game](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Typing-Game/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Typing-Game/) |
+| 14  |     [Speech Text Reader](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Speech-Text-Reader/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Speech-Text-Reader/) |
 ## Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 14  |     Speech Text Reader    |
 | 15  |        Memory Cards       |
 | 16  |      LyricsSearch App     |
 | 17  |        Relaxer App        |
