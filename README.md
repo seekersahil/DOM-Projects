@@ -2,6 +2,21 @@
 
 DOM Manipulation Projects frequently used by developers built with Vanilla JavaScript
 
+Apart from Javascript functions and methods like map, reduce, forEach, fetch etc., Other Concepts used in these projects are:
+- API handling
+- Local Storage Manipulation
+- Infinite Scrolling
+- Pagination
+- HTML5 APIs
+    - Audio and Video APIs
+    - Canvas element API
+    - Speech recognition API
+    - Text to speech API
+- SVG Manipulation
+- CSS3 Animations
+- Validation using Regular Expressions
+
+## Project List
 
 |  #  |         Project Name         |      Live Demo    |
 | :-: | :-------------------------: | :-------:    |
@@ -20,10 +35,10 @@ DOM Manipulation Projects frequently used by developers built with Vanilla JavaS
 | 13  |        [Typing Game](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Typing-Game/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Typing-Game/) |
 | 14  |     [Speech Text Reader](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Speech-Text-Reader/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Speech-Text-Reader/) |
 | 15  |        [Memory Cards](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Memory-Cards/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Memory-Cards/) |
+| 16  |      [LyricsSearch App](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/LyricsSearch-App/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/LyricsSearch-App/) |
 ## Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 16  |      LyricsSearch App     |
 | 17  |        Relaxer App        |
 | 18  |       Breakout Game       |
 | 19  |     New Year Countdown    |

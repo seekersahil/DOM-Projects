@@ -1,6 +1,14 @@
 ## Movie Seat Booking App
 
-Built with HTML, CSS and VanillaJS, a simple webApp to book seats in a movie hall. This also utilises the local storage.
-(As a part of Brad Traversy Udemy course)
+Display movie choices and seats in a theater to select from in order to purchase tickets
+
+## Project Specifications
+
+- Display UI with movie select, screen, seats, legend & seat info
+- User can select a movie/price
+- User can select/deselect seats
+- User can not select occupied seats
+- Number of seats and price will update
+- Save seats, movie and price to local storage so that UI is still populated on refresh
 
 Live Demo: https://dev.seekersahil.com/projects/DOM/Movie-Seat-Booking-App

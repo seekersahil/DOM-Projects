@@ -1,6 +1,14 @@
-## Form validator
+# Form Validator
 
-Built with HTML, CSS and VanillaJS, a simple client side webApp to validate responses in a user registration form.
-(As a part of Brad Traversy Udemy course)
+Simple client side form validation. Check required, length, email and password match
+
+## Project Specifications
+
+- Create form UI
+- Show error messages under specific inputs
+- checkRequired() to accept array of inputs
+- checkLength() to check min and max length
+- checkEmail() to validate email with regex
+- checkPasswordsMatch() to match confirm password
 
 Live Demo: https://dev.seekersahil.com/projects/DOM/Form-Validator
