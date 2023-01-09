@@ -35,7 +35,7 @@ Apart from Javascript functions and methods like map, reduce, forEach, fetch etc
 | 13  |        [Typing Game](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Typing-Game/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Typing-Game/) |
 | 14  |     [Speech Text Reader](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Speech-Text-Reader/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Speech-Text-Reader/) |
 | 15  |        [Memory Cards](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Memory-Cards/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Memory-Cards/) |
-| 16  |      [LyricsSearch App](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/LyricsSearch-App/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/LyricsSearch-App/) |
+| 16  |      [Songs Search App](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/LyricsSearch-App/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/LyricsSearch-App/) |
 ## Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
