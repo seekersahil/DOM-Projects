@@ -36,10 +36,10 @@ Apart from Javascript functions and methods like map, reduce, forEach, fetch etc
 | 14  |     [Speech Text Reader](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Speech-Text-Reader/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Speech-Text-Reader/) |
 | 15  |        [Memory Cards](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Memory-Cards/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Memory-Cards/) |
 | 16  |      [Songs Search App](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Songs-Search/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Songs-Search/) |
+| 17  |        [Relaxer App](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Relaxer-App/)      | [Live Demo](https://dev.seekersahil.com/projects/DOM/Relaxer-App/) |
 ## Upcoming Projects
 |  #  |            Project          |
 | :-: | :-------------------------: |
-| 17  |        Relaxer App        |
 | 18  |       Breakout Game       |
 | 19  |     New Year Countdown    |
 | 20  |       Sortable List       |
