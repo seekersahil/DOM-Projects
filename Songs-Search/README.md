@@ -14,4 +14,4 @@ the original app, Lyrics Search leverages the [lyrics.ovh](https://lyricsovh.doc
 * Included a text banner to indicate a condition where no album art is available.
 * Used bootstrap to CDN to simplify the text banner and button styling.
 
-Live Demo: https://dev.seekersahil.com/projects/DOM/LyricsSearch-App
+Live Demo: https://dev.seekersahil.com/projects/DOM/Songs-Search
