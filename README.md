@@ -13,6 +13,7 @@ Apart from Javascript functions and methods like map, reduce, forEach, fetch etc
   - Canvas element API
   - Speech recognition API
   - Text to speech API
+  - Drag and Drop API
 - SVG Manipulation
 - CSS3 Animations
 - Validation using Regular Expressions
@@ -40,12 +41,12 @@ Apart from Javascript functions and methods like map, reduce, forEach, fetch etc
 | 17  |              [Relaxer App](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Relaxer-App/)              |       [Live Demo](https://dev.seekersahil.com/projects/DOM/Relaxer-App/)        |
 | 18  |            [Breakout Game](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Breakout-Game/)            |      [Live Demo](https://dev.seekersahil.com/projects/DOM/Breakout-Game/)       |
 | 19  |       [New Year Countdown](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/New-Year-Countdown/)       |    [Live Demo](https://dev.seekersahil.com/projects/DOM/New-Year-Countdown/)    |
+| 20  |            [Sortable List](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Sortable-List/)            |      [Live Demo](https://dev.seekersahil.com/projects/DOM/Sortable-List/)       |
 
 ## Upcoming Projects
 
 |  #  |          Project           |
 | :-: | :------------------------: |
-| 20  |       Sortable List        |
 | 21  | Speak Number Guessing Game |
 
 I made these projects under the able guidance of Brad Traversy.

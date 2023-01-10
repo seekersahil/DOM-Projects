@@ -1,0 +1,90 @@
+@import url("http://fonts.googleapis.com/css?family=Lato:wght@400,700");
+
+:root {
+  --border-color: #e3e5e4;
+  --background-color: #c3c7ca;
+  --text-color: #34444f;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  margin: 0;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.draggable-list {
+  border: 1px solid var(--border-color);
+  color: var(--text-color);
+  padding: 0;
+  list-style: none;
+}
+
+.draggable-list li {
+  background-color: #fff;
+  display: flex;
+  flex: 1;
+}
+
+.draggable-list li:not(:last-of-type) {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.draggable-list .number {
+  background-color: var(--background-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  height: 60px;
+  width: 60px;
+}
+
+.draggable-list li.over .draggable {
+  background-color: #eaeaea;
+}
+
+.name {
+  margin: 0 20px;
+}
+
+.draggable-list li.right .name {
+  color: #3ae374;
+}
+
+.draggable-list li.wrong .name {
+  color: #ff3838;
+}
+
+.draggable {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  flex: 1;
+}
+.check-btn {
+  margin-bottom: 20px;
+  cursor: pointer;
+  background-color: var(--background-color);
+  border: 0;
+  font-size: 16px;
+  padding: 10px 20px;
+  color: var(--text-color);
+}
+
+.check-btn:active {
+  transform: scale(0.98);
+}
+
+.check-btn:focus {
+  outline: 0;
+}
