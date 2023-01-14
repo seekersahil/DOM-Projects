@@ -20,8 +20,8 @@ Apart from Javascript functions and methods like map, reduce, forEach, fetch etc
 
 ## Project List
 
-|  #  |                                                                Project Name                                                                |                                    Live Demo                                    |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | --- |
+|  #  |      Project Name         |                                    Live Demo                                    |
+| :-: | :------------------------------------------------------: | :-----------------------------------------------------: |
 | 01  |                   [Form Validator](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Form-Validator)                   |      [Live Demo](https://dev.seekersahil.com/projects/DOM/Form-Validator/)      |
 | 02  |                    [Listify: To Do List](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/Listify)                    |         [Live Demo](https://dev.seekersahil.com/projects/DOM/Listify/)          |
 | 03  |           [DOM Array Methods Project](https://github.com/seekersahil/VanillaJS-Daily-Use-Projects/tree/main/DOM-Array-Methods/)            |    [Live Demo](https://dev.seekersahil.com/projects/DOM/DOM-Array-Methods/)     |
